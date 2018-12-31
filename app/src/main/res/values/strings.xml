@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Android Ramp-up</string>
+    <string name="click_me">Click Me For Activity Lifecycle</string>
+    <string name="android_ramp_up">Android Ramp-Up</string>
+    <string name="go_to_fragment_activity">Go To Fragment Activity</string>
+    <string name="virat_Kohli">Virat Kohli</string>
+    <string name="Dhoni">MS Dhoni</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="asyn_task">Asyn Task</string>
+    <string name="send_data">Send Data</string>
+    <string name="enter_your_name">Enter your Name:</string>
+    <string name="enter_your_lucky_number">Enter your lucky number</string>
+    <string name="name">Name :</string>
+    <string name="number">Number</string>
+    <string name="data_passed_from_main_activity">Data Passed from Main Activity</string>
+    <string name="save_image">Save Image</string>
+    <string name="retrofit_request">Retrofit Request</string>
+    <string name="co_ordinator_layout">Co-ordinator Layout</string>
+    <string name="anurag_tomar_from_appscrip">Anurag Tomar from AppScrip</string>
+    <string name="send_object">Send Object</string>
+    <string name="employee_details">Employee Details</string>
+    <string name="get_message">Get Message</string>
+    <string name="see_details">See Details</string>
+    <string name="endless_list">Endless List</string>
+    <string name="loadMore">Loading more items please wait&#8230;</string>
+    <string name="database_task">Database Task</string>
+    <string name="add_a_new_employee">Add a new Employee</string>
+    <string name="enter_employee_name">Enter Employee Name</string>
+    <string name="select_department">Select Department</string>
+    <string name="view_employees">View Employees</string>
+    <string name="enter_employee_salary">Enter Employee Salary</string>
+    <string name="edit_employee">Edit Employee</string>
+    <string name="update">Update</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="device_id">Device Id</string>
+    <string name="todo">TODO</string>
+    <string name="empty_intent">Empty Intent</string>
+    <string name="surname">Surname :</string>
+    <string name="marks">Marks :</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_all">View All</string>
+    <string name="delete">Delete</string>
+    <string name="roll_no">Roll No :</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="show_current_date">Show Current Date</string>
+    <string name="fragment_activity">Fragment Activity</string>
+    <string name="frag_btn_clicked">Fragment Button clicked</string>
+    <string name="service_activity">Service Activity</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="see_video">See Video</string>
+    <string name="know_more_about_videoView">Know More about Video View</string>
+    <string name="retrofit_flexi">Retrofit Flexi</string>
+    <string name="post_retrofit_example">Post Retrofit Example</string>
+    <string name="device_type">Device Type:</string>
+    <string name="device_os_version">Device OS Version</string>
+    <string name="submit_to_flexi">Submit TO Flexi</string>
+    <string name="post_retrofit">Post Retrofit</string>
+
+    <array name="Department">
+        <item>Android Developer</item>
+        <item>iOS Developer</item>
+        <item>Backend Developer</item>
+        <item>Angular Js Developer</item>
+        <item>Python Developer</item>
+        <item>Web Developer</item>
+        <item>Designer</item>
+        <item>Tester</item>
+    </array>
+
+</resources>

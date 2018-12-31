@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943944123546",
+    "firebase_url": "https://androidrampup.firebaseio.com",
+    "project_id": "androidrampup",
+    "storage_bucket": "androidrampup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943944123546:android:7d28da7c5e233c53",
+        "android_client_info": {
+          "package_name": "com.example.dell.androidramp_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943944123546-imd0b30ipij02hg8125m3ikro9okuf8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.androidramp_up",
+            "certificate_hash": "21e03f1f8445195f6d4e93484985ddd108bc20da"
+          }
+        },
+        {
+          "client_id": "943944123546-cq6381qchvs7vsq37grjkjlg1vh8n0np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNUILasIdg5ILT1V0V7xI4Rh0dsmd0Os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943944123546-cq6381qchvs7vsq37grjkjlg1vh8n0np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
